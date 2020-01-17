@@ -1,3 +1,3 @@
 ## Resources
 
-- [Queries and Mutations](https://graphql.org/learn/queries/)
+- [Queries and Mutations (official website)](https://graphql.org/learn/queries/)

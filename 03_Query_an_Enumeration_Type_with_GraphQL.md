@@ -1,3 +1,3 @@
 ## Resources
 
-- [Schemas and Types](https://graphql.org/learn/schema/)
+- [Schemas and Types (official website)](https://graphql.org/learn/schema/)
