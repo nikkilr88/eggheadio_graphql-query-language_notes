@@ -1,3 +1,3 @@
 ## Resources
 
-- [Schemas and Types (official website)](https://graphql.org/learn/schema/)
+- [Enumeration types (official website)](https://graphql.org/learn/schema/#enumeration-types)
