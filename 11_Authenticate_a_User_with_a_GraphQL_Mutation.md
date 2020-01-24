@@ -10,9 +10,7 @@ mutation {
 }
 ```
 
-A type `LogInPayload` is returned from the `logIn` mutation. This is a custom object that returns both a customer and user token.
-
-We can use the token to validate that the user is authorized.
+A type `LogInPayload` is returned from the `logIn` mutation. This is a custom object that returns both a customer and user token. We can use the token to validate that the user is authorized.
 
 When we send the `logIn` mutation, we have access to the customer details and token.
 
