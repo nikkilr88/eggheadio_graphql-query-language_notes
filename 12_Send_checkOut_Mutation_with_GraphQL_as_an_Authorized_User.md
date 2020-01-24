@@ -1,4 +1,4 @@
-[video link](https://egghead.io/lessons/graphql-send-a-checkout-mutation-with-graphql-as-an-authorized-user)
+[Video link](https://egghead.io/lessons/graphql-send-a-checkout-mutation-with-graphql-as-an-authorized-user)
 
 # 12. Send a checkOut Mutation with GraphQL as an Authorized User
 
