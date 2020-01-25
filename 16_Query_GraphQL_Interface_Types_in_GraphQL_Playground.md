@@ -6,7 +6,7 @@ If we send the `allPets` query, we'll get back `id` and `name` just as expected,
 
 If we open the `allPets` query in the schema, we'll see that it's no longer a type, but an interface. _An interface is an abstract type that includes a set of fields, and these fields must be used when creating new instances of that interface._
 
-Here we have the `Pet` interface. It's the 'base', and it has several fields on it. Our enumerators (`Cat`, `Dog`, etc.) from the previous pet library are now implementatios of the `Pet` interface.
+Here we have the `Pet` interface. It's the 'base', and it has several fields on it. Our enumerators (`Cat`, `Dog`, etc.) from the previous pet library are now implementations of the `Pet` interface.
 
 ![alt text](https://i.ibb.co/F8bXbSP/scrnli-1-25-2020-2-37-27-PM.png)
 
