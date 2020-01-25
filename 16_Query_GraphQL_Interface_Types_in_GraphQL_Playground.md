@@ -32,7 +32,7 @@ query {
 
 Writing queries for interfaces is a little different. Now we are able to use inline fragments.
 
-If we want to query those extra fields we had on `Cat`, we can use the spread syntax followed by `on <fragment name>`.
+If we want to query those extra fields we had on `Cat`, we can use the spread syntax followed by `on <type name>`.
 
 ```graphql
 query {
